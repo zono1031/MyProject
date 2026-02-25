@@ -1,4 +1,4 @@
 # MyProject
 프로젝트
 스푼 and 씨유
-![Uploading 스크린샷 2026-02-25 161024.png…]()
+<img width="1875" height="408" alt="Image" src="https://github.com/user-attachments/assets/711ee3b8-3d3f-4334-ac22-47e5cfb108d3" />
